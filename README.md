@@ -23,4 +23,4 @@ The workflow then:
 
 ## Deployment URL
 
-https://Taiwo184.github.io/gith-workflows/build.yml
+https://Taiwo184.github.io/git-workflows-build.yml
